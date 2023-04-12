@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
-My name is Mujeeb Adeniji. I am passionate about delivering quality data, maintaining data pipelines, and designing and implementing reliable data pipelines. I have been in the data 
-space for about 4 years now, I have previously worked as a data analyst, analytics engineer and now as a data engineer. I am open to new opportunities in data engineering space because
+My name is Mujeeb Adeniji. I am passionate about delivering quality data, maintaining data pipelines, and designing and implementing reliable data pipelines. I am open to new opportunities in data engineering space because
 I am still exploring the engineering side of data 😄. I am also open to collaborate on open source projects.
 
 - 🔭 I’m currently working on a lot of things. Kindly find my personal portfolio here: https://adenijimujeeb.github.io
